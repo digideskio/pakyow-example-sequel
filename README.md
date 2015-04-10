@@ -1,4 +1,4 @@
-This is a Pakyow v0.9 app.
+This is a Pakyow v0.9 app demonstrating connecting to a Postgres database with Sequel. You can read more about it in the [original blog post](http://notmagic.org/2015/04/10/pakyow-sequel).
 
 # Getting Started
 
