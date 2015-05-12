@@ -42,6 +42,7 @@ GEM
     puma (2.11.1)
       rack (>= 1.1, < 2.0)
     rack (1.6.0)
+    rake (10.4.2)
     sequel (4.20.0)
 
 PLATFORMS
@@ -52,4 +53,5 @@ DEPENDENCIES
   pakyow (= 0.9.1)
   pg
   puma
+  rake
   sequel
