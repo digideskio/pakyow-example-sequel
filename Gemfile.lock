@@ -41,7 +41,7 @@ GEM
       htmlentities (>= 4.0.0)
     puma (2.13.4)
     rack (1.6.4)
-    rake (10.4.2)
+    rake (11.2.2)
     sequel (4.25.0)
 
 PLATFORMS
@@ -56,4 +56,4 @@ DEPENDENCIES
   sequel
 
 BUNDLED WITH
-   1.10.6
+   1.11.2
